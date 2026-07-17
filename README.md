@@ -43,7 +43,10 @@ This dashboard provides operational visibility into service desk activities and 
 
 ## 📸 Screenshots
 
-Dashboard screenshots will be added here.
+### Dashboard Overview
+
+![Dashboard Overview](dashboard-overview.png)
+
 
 ## 🚀 Business Impact
 
